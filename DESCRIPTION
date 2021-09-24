@@ -18,3 +18,5 @@ Imports:
     dplyr,
     lubridate,
     readr
+URL: https://github.com/ObsNalCiudadano/tidyONC
+BugReports: https://github.com/ObsNalCiudadano/tidyONC/issues
