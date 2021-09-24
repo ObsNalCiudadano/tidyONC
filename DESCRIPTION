@@ -17,6 +17,7 @@ Imports:
     tidyr,
     dplyr,
     lubridate,
-    readr
+    readr,
+    magrittr
 URL: https://github.com/ObsNalCiudadano/tidyONC
 BugReports: https://github.com/ObsNalCiudadano/tidyONC/issues
